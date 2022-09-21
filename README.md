@@ -1,4 +1,4 @@
-👋 Hi, I’m Alex Glaubitz or @Qlaub, and I'm a full stack web developer
+👋 Hi there, I’m Alex Glaubitz, and I'm a full stack web developer
 
 :heart: I'm passionate about web development, people, music of all sorts, and outdoor activities 
 
