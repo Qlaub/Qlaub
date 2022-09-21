@@ -4,4 +4,4 @@
 
 :briefcase: I currently work as a web developer for a startup company in stealth mode
 
-📫 Feel free to reach out to me at e.pirazzi@gmail.com, I'd love to hear from you! [portfolio page](https://qlaub.github.io/portfolio-react/)
+📫 Feel free to reach out to me at e.pirazzi@gmail.com, I'd love to hear from you!
