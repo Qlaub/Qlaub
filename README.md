@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @Qlaub
-- 👀 I’m passionate about web development, music of all sorts, outdoor activities, and the occasional video game
-- 🌱 I’m currently developing MERN stack web applications
-- 💞️ I’m looking to collaborate on anything interesting
-- 📫 You can reach me at my [portfolio page](https://qlaub.github.io/portfolio-react/)
+👋 Hi, I’m Alex Glaubitz or @Qlaub, and I'm a full stack web developer
+
+:heart: I'm passionate about web development, people, music of all sorts, and outdoor activities 
+
+:briefcase: I currently work as a web developer for a startup company in stealth mode
+
+📫 Feel free to reach out to me at e.pirazzi@gmail.com, I'd love to hear from you! [portfolio page](https://qlaub.github.io/portfolio-react/)
